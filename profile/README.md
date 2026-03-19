@@ -1,4 +1,4 @@
-# UniPrep 
+# UniPrep.in
 
 UniPrep is a full-stack EdTech platform for CUET preparation. It combines a student learning system with an admin CMS, focusing on structured, data-driven exam preparation.
 
